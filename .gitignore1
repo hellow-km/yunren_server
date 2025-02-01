@@ -1,0 +1,18 @@
+# Dependencies
+node_modules
+
+# yarn error logs
+yarn-error.log
+
+# Environment varibales
+.env*
+!.env*.example
+
+# Code coverage
+coverage
+/src/images
+/src/parseImages
+/src/uploadImages
+/src/temp
+/tests
+src/logs/sqlLog.txt
